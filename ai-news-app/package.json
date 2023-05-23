@@ -41,5 +41,9 @@
   },
   "devDependencies": {
     "dotenv-webpack": "^8.0.1"
+  },
+  "resolutions": {
+    "react": "^17.0.2",
+    "@testing-library/react": "^13.4.0"
   }
 }
