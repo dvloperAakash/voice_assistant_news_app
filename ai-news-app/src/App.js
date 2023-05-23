@@ -40,9 +40,6 @@ function App() {
         <img src="https://videohive.img.customer.envatousercontent.com/files/f4db72ca-6e03-477e-92bc-a408c27730ca/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=edea1ba1b55c84d652b12ba166e358c9" className={classes.alanLogo} alt="alan logo" />
       </div>
       <NewsCards articles={newsArticle} activeArticle={activeArticle} />
-      <div className={classes.footer}>
-        Developed by Aakash Goswami
-      </div>
     </div>
   );
 }
